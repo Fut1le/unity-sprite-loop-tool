@@ -1,2 +1,3 @@
 # unity-sprite-loop-tool
-![image](https://user-images.githubusercontent.com/43324348/236341862-33abda0f-732d-4c0f-a220-05ee009791e0.png)
+https://user-images.githubusercontent.com/43324348/236341959-842dab3f-b17e-4a1f-8825-5aa21bdd87f4.mp4
+
